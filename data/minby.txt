@@ -1,0 +1,4 @@
+hadoop 2
+hbase 3
+hadoop 5
+hbase 6
